@@ -1,0 +1,18 @@
+# Tuning hyper-parameters
+
+SVR(C=500, coef0=0.1, epsilon=10, gamma=0.0001)
+SVR(C=400, coef0=0.1, epsilon=0.5, gamma=0.0001)
+SVR(C=700, coef0=0.1, epsilon=10, gamma=0.0001)
+SVR(C=600, coef0=0.1, epsilon=30, gamma=0.0001)
+SVR(C=400, coef0=0.1, epsilon=5, gamma=0.0001)
+SVR(C=400, coef0=0.1, epsilon=5, gamma=0.0001)
+
+***********************************************************
+**************** Analisis de dataset PM2_5 *****************
+***********************************************************
+
+
+********** Metricas de entrenamiento LA florida completo basico**********
+
+[['PM2_5', 'R2', 0.486800715039613]]
+['PM2_5', 'R2', -0.019054591258597764]
